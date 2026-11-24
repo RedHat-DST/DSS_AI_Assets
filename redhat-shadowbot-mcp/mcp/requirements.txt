@@ -1,0 +1,11 @@
+# HTTP client for LangGraph + Keycloak
+httpx>=0.27.0
+
+# Browser session (SSO + FreeOTP)
+playwright>=1.40.0
+
+# MCP server
+mcp>=1.0.0,<2.0.0
+
+# CLI
+click>=8.1.7

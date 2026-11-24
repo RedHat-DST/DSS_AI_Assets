@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "linkedin-sales-navigator": {
+      "command": "REPLACE_ME_HOME/mcps/linkedin-sales-navigator/.venv/bin/python",
+      "args": [
+        "REPLACE_ME_HOME/mcps/linkedin-sales-navigator/mcp_server.py"
+      ],
+      "env": {
+        "SALESNAV_CDP_PORT": "9222",
+        "SALESNAV_SALES_URL": "https://www.linkedin.com/sales/homepage",
+        "MCP_CHROME_CDP_PORT": "9222"
+      }
+    }
+  }
+}

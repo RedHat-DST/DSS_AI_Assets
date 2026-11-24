@@ -1,0 +1,11 @@
+{
+  "start_url": "https://shadowbot.io.redhat.com/agents/sales-assistant",
+  "langgraph_api_url": "https://api.enterprise.redhat.com/sales-assistant",
+  "assistant_id": "sales_assistant_v2",
+  "sso_base_url": "https://auth.redhat.com/auth",
+  "sso_realm": "EmployeeIDP",
+  "sso_client_id": "shadowbot-ui",
+  "cdp_port": 9225,
+  "login_timeout_seconds": 600,
+  "run_timeout_seconds": 300
+}

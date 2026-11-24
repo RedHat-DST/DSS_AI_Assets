@@ -1,0 +1,13 @@
+{
+  "006XXXXXXXXXXXXXXX": {
+    "name": "Example renewal",
+    "deal": null,
+    "rich": {
+      "Metrics": "<p>Success measured by uninterrupted support on the renewal footprint.</p>",
+      "Decision Criteria": "<p>Incumbent renewal pricing; co-term; minimal operational change.</p>",
+      "Decision Process": "<p>Vendor management review; PAM coordination; procurement sign-off.</p>",
+      "Paper Process": "<p>Standard renewal quote via reseller; PO per customer process.</p>",
+      "Competition": "<p>Incumbent renewal; no competitive displacement expected.</p>"
+    }
+  }
+}
